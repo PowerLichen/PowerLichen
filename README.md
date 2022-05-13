@@ -1,5 +1,5 @@
 # 😎 About Me
-<img src="https://img.shields.io/badge/dltm135@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/ms.choe015@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 안녕하세요!! 끊임없이 공부하며 고민을 즐기는 개발자입니다!
 
